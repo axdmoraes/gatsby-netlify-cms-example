@@ -1,6 +1,6 @@
 ---
-path: blog/uba
+path: /blog/uba
 date: '2019-02-27'
-title: teste
+title: teste uba
 ---
 My first CMS post.22
