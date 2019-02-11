@@ -1,5 +1,5 @@
 ---
-path: Teste2
+path: Teste
 date: '2019-02-11'
 title: Teste1
 ---
